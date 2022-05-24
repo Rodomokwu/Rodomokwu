@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Rodomokwu
 - 👀 I’m interested in data analysis (internships) 
 - 🌱 I’m currently learning data analysis with python and R
-- 💞️ I’m looking to collaborate on projects that feature aspects of analysis
+- 💞️ I’m looking to collaborate on projects that feature aspects of analysis like exploration, visualization e.t.c
 - 📫 How to reach me Email : rodomokwu@yahoo.com 
 
 <!---
